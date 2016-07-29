@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/local/SPREADTRUM/michael.wang/MyAndroid/MyPullToRefresh/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/home/local/SPREADTRUM/michael.wang/MyAndroid/MyPullToRefresh/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/home/local/SPREADTRUM/michael.wang/MyAndroid/MyPullToRefresh/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/home/local/SPREADTRUM/michael.wang/MyAndroid/MyPullToRefresh/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    }
+]
